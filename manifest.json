@@ -1,0 +1,17 @@
+{
+    "name": "Sistema conteo ciclico",
+    "short_name": "Inventario",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1a73e8",
+    "icons": [
+        {
+             "src": "https://cdn-icons-png.flaticon.com/512/2850/2850341.png",
+             "sizes": "512x512",
+             "type": "image/png"
+        }
+    ]
+
+
+}
