@@ -7,13 +7,13 @@
   "theme_color": "#1a73e8",
 "icons": [
     {
-      "img src": "img.png"
+      "src": "https://cdn-icons-png.flaticon.com/192/2850/2850341.png"
       "sizes": "192x192",
       "type": "imagen/png",
       "purpose": "any"
     },
     {
-      "img src": "img.png"
+      "src": "https://cdn-icons-png.flaticon.com/192/2850/2850341.png"
       "sizes": "512x512",
       "type": "imagen/png",
       "purpose": "maskable"
