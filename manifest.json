@@ -9,13 +9,13 @@
     {
       "src": "https://cdn-icons-png.flaticon.com/192/2850/2850341.png",
       "sizes": "192x192",
-      "type": "imagen\img.png",
+      "type": "imagen/img.png",
       "purpose": "any"
     },
     {
       "src": "https://cdn-icons-png.flaticon.com/512/2850/2850341.png",
       "sizes": "512x512",
-      "type": "imagen\img.png",
+      "type": "imagen/img.png",
       "purpose": "maskable"
     }
   ]
